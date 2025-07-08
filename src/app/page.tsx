@@ -167,7 +167,7 @@ export default function Home() {
       const resData = await res.json();
       console.log("API response:", resData);
       if (res.ok) {
-        setSubmitted(true);
+      setSubmitted(true);
         reset();
         setTimeout(() => setSubmitted(false), 2000);
       } else {
