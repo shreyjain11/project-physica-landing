@@ -222,7 +222,7 @@ export default function Home() {
           )}
           <div className="flex gap-4 mt-2">
             <a
-              href="https://discord.gg/QMyXmMUY"
+              href="https://discord.gg/fg8KVGvkKS"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2 rounded-lg font-semibold shadow-lg transform transition-transform duration-200 hover:scale-105 bg-blue-600 hover:bg-blue-700 text-white"
