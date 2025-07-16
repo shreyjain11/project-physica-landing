@@ -1,4 +1,4 @@
-This is the waitlist page for Project Physica, an upcoming platform focused on making physics easier to learn and explore.
+This is the waitlist page for **Project Physica**, an upcoming platform focused on making physics easier to learn and explore.
 
 The page allows early users to sign up for updates and get early access to the platform once it launches.
 
